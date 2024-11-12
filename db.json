@@ -1,6 +1,5 @@
 {
-  "total": 1028,
-  "items": [
+  "fugitives": [
     {
       "files": [
         {
@@ -83,6 +82,5 @@
       "warning_message": null,
       "pathId": "https://api.fbi.gov/@wanted-person/4f5f62ea98c34547a11f12fd12e040ca"
     }
-  ],
-  "page": 1
+  ]
 }
