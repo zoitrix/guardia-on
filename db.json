@@ -81,6 +81,76 @@
       "poster_classification": "default",
       "warning_message": null,
       "pathId": "https://api.fbi.gov/@wanted-person/4f5f62ea98c34547a11f12fd12e040ca"
+    },
+    {
+      "files": [
+        {
+          "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/flagstaff-az-10-10-19.pdf",
+          "name": "English"
+        }
+      ],
+      "age_range": "26 to 34 years old",
+      "uid": "b5e7d23089834cf79709b9042400ca8e",
+      "weight": null,
+      "occupations": null,
+      "field_offices": null,
+      "locations": null,
+      "reward_text": null,
+      "sex": "Male",
+      "hair": null,
+      "ncic": null,
+      "dates_of_birth_used": null,
+      "caution": null,
+      "nationality": null,
+      "age_min": 26,
+      "age_max": 34,
+      "scars_and_marks": null,
+      "subjects": [
+        "ViCAP Homicides and Sexual Assaults"
+      ],
+      "aliases": null,
+      "race_raw": "White",
+      "suspects": null,
+      "publication": "2019-10-10T08:22:00",
+      "title": "UNIDENTIFIED INDIVIDUAL - FLAGSTAFF, ARIZONA",
+      "coordinates": [],
+      "hair_raw": null,
+      "languages": null,
+      "complexion": null,
+      "build": null,
+      "details": "\u003Cp\u003EOn August 14, 2016, the victim and her friend were in a parked vehicle in Flagstaff, Arizona. The two had been at this location, which was extremely dark, for a short time, waiting for a friend, before falling asleep in the vehicle. Their seats were reclined and the vehicle was off. Both had recently left from a bar and had been drinking that night. While asleep in the car, the victim was awoken to a knock on the driver door window. The subject at the window identified himself as a police officer and began questioning the two about a possible DUI. The suspect requested the victim’s license, registration and insurance. The victim was directed out of the vehicle and brought to the rear of her car. The victim was further questioned and \"frisked\" on the inside of her legs and breasts. The suspect told the victim that because the keys were in the ignition, she could face a DUI charge. The victim questioned the suspect as to his name and badge number but was told to stop asking or she would be handcuffed and arrested. The suspect directed the victim to come with him to his patrol vehicle to submit to a portable breath test. The suspect walked the victim to a nearby alley where he pushed her against a telephone pole. The suspect first digitally penetrated the victim and then sexually assaulted (penile) her. The victim cried out, which her friend heard, and then the friend called out for her and the suspect ran off. The suspect fled from the assault area on foot.\u003C/p\u003E",
+      "status": "na",
+      "legat_names": null,
+      "eyes": null,
+      "person_classification": "Main",
+      "description": "Flagstaff, Arizona\r\nAugust 14, 2016",
+      "images": [
+        {
+          "large": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image/large",
+          "caption": null,
+          "thumb": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image/thumb",
+          "original": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image"
+        }
+      ],
+      "possible_countries": null,
+      "weight_min": null,
+      "additional_information": null,
+      "remarks": "\u003Cp\u003EThe unidentified individual wore a \"police\" hat, and carried a \"Mag Light\"-style flashlight.\u003C/p\u003E",
+      "path": "/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona",
+      "eyes_raw": null,
+      "weight_max": null,
+      "reward_min": 0,
+      "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona",
+      "possible_states": null,
+      "modified": "2024-10-23T00:06:39+00:00",
+      "reward_max": 0,
+      "race": "white",
+      "height_max": 71,
+      "place_of_birth": null,
+      "height_min": 70,
+      "poster_classification": "default",
+      "warning_message": null,
+      "pathId": "https://api.fbi.gov/@wanted-person/b5e7d23089834cf79709b9042400ca8e"
     }
   ]
 }
