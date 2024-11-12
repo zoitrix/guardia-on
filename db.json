@@ -61,6 +61,32 @@
 		"sex": "Male",
 		"hair": "brown",
 		"nationality": "None"
+		},
+		{
+		"title": "JOHN DOE - GRANT COUNTY, KENTUCKY",
+		"race": "white",
+		"age": "25",
+		"sex": "Male",
+		"hair": "brown",
+		"nationality": "None"
+		},
+
+		{
+		"title": "JANE DOE - MARION COUNTY, HANNIBAL, MISSOURI",
+		"race": "hispanic",
+		"age": "39",
+		"sex": "Female",
+		"hair": "brown",
+		"nationality": "None",
+		},
+
+		{
+		"title": "WILLIAM BILLY DISILVESTRO - HAMILTON, OHIO",
+		"race": "white",
+		"age": "28",
+		"sex": "Male",
+		"hair": "black",
+		"nationality": "None"
 		}
   ]
 }
