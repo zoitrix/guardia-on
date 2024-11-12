@@ -151,6 +151,76 @@
       "poster_classification": "default",
       "warning_message": null,
       "pathId": "https://api.fbi.gov/@wanted-person/b5e7d23089834cf79709b9042400ca8e"
+    },
+	{
+      "files": [
+        {
+          "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/vicap-alert-2019-02-02-revised-unidentified_human_remains_needville.pdf",
+          "name": "English"
+        }
+      ],
+      "age_range": "Approximately 17 to 23 years old",
+      "uid": "0de65261a2d74b298f3021202edfa532",
+      "weight": null,
+      "occupations": null,
+      "field_offices": null,
+      "locations": null,
+      "reward_text": null,
+      "sex": "Male",
+      "hair": "brown",
+      "ncic": null,
+      "dates_of_birth_used": null,
+      "caution": null,
+      "nationality": null,
+      "age_min": 17,
+      "age_max": 23,
+      "scars_and_marks": "The victim had a vitamin deficiency, broken tailbone (healed), and his front two lower incisor teeth were rotated and overlapping.",
+      "subjects": [
+        "ViCAP Unidentified Persons"
+      ],
+      "aliases": null,
+      "race_raw": "Hispanic",
+      "suspects": null,
+      "publication": "2019-02-28T14:22:00",
+      "title": "JOHN DOE - NEEDVILLE, TEXAS",
+      "coordinates": [],
+      "hair_raw": "Black or brown",
+      "languages": null,
+      "complexion": null,
+      "build": null,
+      "details": "\u003Cp\u003EOn December 17, 2000, the skeletal remains of an unidentified male were located beside the roadway near 8500 Davis Estate Road in Needville, Texas (Fort Bend County). Based on the condition of the remains, the decedent is believed to have been deceased approximately 3 - 9 months prior to discovery. The decedent had straight dark brown to black hair, approximately 2 inches in length. Clothing items found with the remains include blue jeans with a 29\" waistband (Route 66 brand), a brown leather belt, beige socks, brown suede shoes (Pele brand), a black wrist band (Guess logo/brand), and a pink fabric wrist band. The decedent had a healed fracture of his tailbone and his front two lower incisor teeth were rotated and overlapping. The victim was found with many of his bones inside a green plastic bag.\u003C/p\u003E",
+      "status": "na",
+      "legat_names": null,
+      "eyes": null,
+      "person_classification": "Main",
+      "description": "Needville, Texas\r\nDecember 17, 2000",
+      "images": [
+        {
+          "large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/@@images/image/large",
+          "caption": "2005 Composite",
+          "thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/@@images/image/thumb",
+          "original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/@@images/image"
+        }
+      ],
+      "possible_countries": null,
+      "weight_min": null,
+      "additional_information": null,
+      "remarks": null,
+      "path": "/wanted/vicap/unidentified-persons/john-doe---needville-texas",
+      "eyes_raw": null,
+      "weight_max": null,
+      "reward_min": 0,
+      "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas",
+      "possible_states": null,
+      "modified": "2024-10-23T00:06:33+00:00",
+      "reward_max": 0,
+      "race": "hispanic",
+      "height_max": 66,
+      "place_of_birth": null,
+      "height_min": 61,
+      "poster_classification": "default",
+      "warning_message": null,
+      "pathId": "https://api.fbi.gov/@wanted-person/0de65261a2d74b298f3021202edfa532"
     }
   ]
 }
