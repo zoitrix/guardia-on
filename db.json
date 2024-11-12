@@ -1,17 +1,17 @@
 {
   "months":[
-	{ "January": "01" },
-	{ "February": "02" },
-	{ "March": "03" },
-	{ "April": "04" },
-	{ "May": "05" },
-	{ "June": "06" },
-	{ "July": "07" },
-	{ "August": "08" },
-	{ "September": "09" },
-	{ "October": "10" },
-	{ "November": "11" },
-	{ "December": "12" }
+	{ "id": "January", "value": "01" },
+	{ "id": "February", "value": "02" },
+	{ "id": "March", "value": "03" },
+	{ "id": "April", "value": "04" },
+	{ "id": "May", "value": "05" },
+	{ "id": "June", "value": "06" },
+	{ "id": "July", "value": "07" },
+	{ "id": "August", "value": "08" },
+	{ "id": "September", "value": "09" },
+	{ "id": "October", "value": "10" },
+	{ "id": "November", "value": "11" },
+	{ "id": "December", "value": "12" }
   ],
   "fugitives":[
 		{
