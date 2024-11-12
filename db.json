@@ -15,7 +15,7 @@
 		  "December": "12",
 	  }
   },
-  "fugitives":
+  "fugitives":{
 		{
 		"title": "IDA DEAN (RICHARDSON) ANDERSON - ANN ARBOR, MICHIGAN",
 		"race": "white",
@@ -94,4 +94,5 @@
 		"sex": "Male",
 		"hair": "black"
 		}
+    }
 }
