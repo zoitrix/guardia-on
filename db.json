@@ -1,6 +1,5 @@
 {
   "months":{
-	  {
 		  "January": "01",
 		  "February": "02",
 		  "March": "03",
@@ -12,8 +11,7 @@
 		  "September": "09",
 		  "October": "10",
 		  "November": "11",
-		  "December": "12",
-	  }
+		  "December": "12"
   },
   "fugitives":{
 		{
