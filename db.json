@@ -1,226 +1,68 @@
 {
   "fugitives": [
     {
-      "files": [
-        {
-          "url": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan/vicap-alert-2024-04-07.pdf",
-          "name": "English"
-        }
-      ],
-      "age_range": "21 years old at time of disappearance",
-      "uid": "4f5f62ea98c34547a11f12fd12e040ca",
-      "weight": "110 pounds",
-      "occupations": null,
-      "field_offices": null,
-      "locations": null,
-      "reward_text": null,
-      "sex": "Female",
-      "hair": "brown",
-      "ncic": null,
-      "dates_of_birth_used": null,
-      "caution": null,
-      "nationality": null,
-      "age_min": 21,
-      "age_max": 21,
-      "scars_and_marks": null,
-      "subjects": [
-        "ViCAP Missing Persons"
-      ],
-      "aliases": null,
-      "race_raw": "White",
-      "suspects": null,
-      "publication": "2024-04-29T13:46:00",
-      "title": "IDA DEAN (RICHARDSON) ANDERSON - ANN ARBOR, MICHIGAN",
-      "coordinates": [],
-      "hair_raw": "Light Brown",
-      "languages": null,
-      "complexion": null,
-      "build": null,
-      "details": "\u003Cp\u003EIda Dean (Richardson) Anderson, a 21-year-old white female, was last seen on September 18, 1958, in Ann Arbor, Michigan. She was due in court the next day for her parental rights case and was to be awarded custody of her children, but due to conflicting court documents it is unclear if she showed up. Ida had left her husband in March 1958 and was hospitalized soon after for various illnesses. As a result, her estranged husband placed their children in a boarding home and moved to Chicago while Ida was in the hospital. The state of Michigan took custody of the children and Ida had been fighting to get them back since she was released. Arrangements had been made for Ida and her children to fly to Florida to visit family after the September 19, 1958, court date but she did not show. Prior to her disappearance, Ida remained in constant contact with her family via mail. Anyone with information regarding Ida’s disappearance is asked to contact the Ann Arbor Police Department.\u003C/p\u003E",
-      "status": "na",
-      "legat_names": null,
-      "eyes": "green",
-      "person_classification": "Main",
-      "description": "September 18, 1958\r\nAnn Arbor, Michigan",
-      "images": [
-        {
-          "large": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan/@@images/image/large",
-          "caption": "Photograph taken between 1956 and 1958",
-          "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan/@@images/image/thumb",
-          "original": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan/@@images/image"
-        },
-        {
-          "large": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan/ida_anderson2.jpg/@@images/image/large",
-          "caption": "Photograph taken between 1956 and 1958",
-          "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan/ida_anderson2.jpg/@@images/image/thumb",
-          "original": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan/ida_anderson2.jpg"
-        },
-        {
-          "large": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan/ida_anderson3.jpg/@@images/image/large",
-          "caption": "Photograph taken between 1956 and 1958",
-          "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan/ida_anderson3.jpg/@@images/image/thumb",
-          "original": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan/ida_anderson3.jpg"
-        }
-      ],
-      "possible_countries": null,
-      "weight_min": 110,
-      "additional_information": null,
-      "remarks": "\u003Cp\u003EIda Dean (Richardson) Anderson usually wore dresses, long skirts, and button-up shirts. \u003C/p\u003E",
-      "path": "/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan",
-      "eyes_raw": "Green",
-      "weight_max": 110,
-      "reward_min": 0,
-      "url": "https://www.fbi.gov/wanted/vicap/missing-persons/ida-dean-richardson-anderson---ann-arbor-michigan",
-      "possible_states": null,
-      "modified": "2024-10-23T00:06:53+00:00",
-      "reward_max": 0,
-      "race": "white",
-      "height_max": 62,
-      "place_of_birth": null,
-      "height_min": 62,
-      "poster_classification": "default",
-      "warning_message": null,
-      "pathId": "https://api.fbi.gov/@wanted-person/4f5f62ea98c34547a11f12fd12e040ca"
-    },
-    {
-      "files": [
-        {
-          "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/flagstaff-az-10-10-19.pdf",
-          "name": "English"
-        }
-      ],
-      "age_range": "26 to 34 years old",
-      "uid": "b5e7d23089834cf79709b9042400ca8e",
-      "weight": null,
-      "occupations": null,
-      "field_offices": null,
-      "locations": null,
-      "reward_text": null,
-      "sex": "Male",
-      "hair": null,
-      "ncic": null,
-      "dates_of_birth_used": null,
-      "caution": null,
-      "nationality": null,
-      "age_min": 26,
-      "age_max": 34,
-      "scars_and_marks": null,
-      "subjects": [
-        "ViCAP Homicides and Sexual Assaults"
-      ],
-      "aliases": null,
-      "race_raw": "White",
-      "suspects": null,
-      "publication": "2019-10-10T08:22:00",
-      "title": "UNIDENTIFIED INDIVIDUAL - FLAGSTAFF, ARIZONA",
-      "coordinates": [],
-      "hair_raw": null,
-      "languages": null,
-      "complexion": null,
-      "build": null,
-      "details": "\u003Cp\u003EOn August 14, 2016, the victim and her friend were in a parked vehicle in Flagstaff, Arizona. The two had been at this location, which was extremely dark, for a short time, waiting for a friend, before falling asleep in the vehicle. Their seats were reclined and the vehicle was off. Both had recently left from a bar and had been drinking that night. While asleep in the car, the victim was awoken to a knock on the driver door window. The subject at the window identified himself as a police officer and began questioning the two about a possible DUI. The suspect requested the victim’s license, registration and insurance. The victim was directed out of the vehicle and brought to the rear of her car. The victim was further questioned and \"frisked\" on the inside of her legs and breasts. The suspect told the victim that because the keys were in the ignition, she could face a DUI charge. The victim questioned the suspect as to his name and badge number but was told to stop asking or she would be handcuffed and arrested. The suspect directed the victim to come with him to his patrol vehicle to submit to a portable breath test. The suspect walked the victim to a nearby alley where he pushed her against a telephone pole. The suspect first digitally penetrated the victim and then sexually assaulted (penile) her. The victim cried out, which her friend heard, and then the friend called out for her and the suspect ran off. The suspect fled from the assault area on foot.\u003C/p\u003E",
-      "status": "na",
-      "legat_names": null,
-      "eyes": null,
-      "person_classification": "Main",
-      "description": "Flagstaff, Arizona\r\nAugust 14, 2016",
-      "images": [
-        {
-          "large": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image/large",
-          "caption": null,
-          "thumb": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image/thumb",
-          "original": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image"
-        }
-      ],
-      "possible_countries": null,
-      "weight_min": null,
-      "additional_information": null,
-      "remarks": "\u003Cp\u003EThe unidentified individual wore a \"police\" hat, and carried a \"Mag Light\"-style flashlight.\u003C/p\u003E",
-      "path": "/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona",
-      "eyes_raw": null,
-      "weight_max": null,
-      "reward_min": 0,
-      "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona",
-      "possible_states": null,
-      "modified": "2024-10-23T00:06:39+00:00",
-      "reward_max": 0,
-      "race": "white",
-      "height_max": 71,
-      "place_of_birth": null,
-      "height_min": 70,
-      "poster_classification": "default",
-      "warning_message": null,
-      "pathId": "https://api.fbi.gov/@wanted-person/b5e7d23089834cf79709b9042400ca8e"
-    },
-	{
-      "files": [
-        {
-          "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/vicap-alert-2019-02-02-revised-unidentified_human_remains_needville.pdf",
-          "name": "English"
-        }
-      ],
-      "age_range": "Approximately 17 to 23 years old",
-      "uid": "0de65261a2d74b298f3021202edfa532",
-      "weight": null,
-      "occupations": null,
-      "field_offices": null,
-      "locations": null,
-      "reward_text": null,
-      "sex": "Male",
-      "hair": "brown",
-      "ncic": null,
-      "dates_of_birth_used": null,
-      "caution": null,
-      "nationality": null,
-      "age_min": 17,
-      "age_max": 23,
-      "scars_and_marks": "The victim had a vitamin deficiency, broken tailbone (healed), and his front two lower incisor teeth were rotated and overlapping.",
-      "subjects": [
-        "ViCAP Unidentified Persons"
-      ],
-      "aliases": null,
-      "race_raw": "Hispanic",
-      "suspects": null,
-      "publication": "2019-02-28T14:22:00",
-      "title": "JOHN DOE - NEEDVILLE, TEXAS",
-      "coordinates": [],
-      "hair_raw": "Black or brown",
-      "languages": null,
-      "complexion": null,
-      "build": null,
-      "details": "\u003Cp\u003EOn December 17, 2000, the skeletal remains of an unidentified male were located beside the roadway near 8500 Davis Estate Road in Needville, Texas (Fort Bend County). Based on the condition of the remains, the decedent is believed to have been deceased approximately 3 - 9 months prior to discovery. The decedent had straight dark brown to black hair, approximately 2 inches in length. Clothing items found with the remains include blue jeans with a 29\" waistband (Route 66 brand), a brown leather belt, beige socks, brown suede shoes (Pele brand), a black wrist band (Guess logo/brand), and a pink fabric wrist band. The decedent had a healed fracture of his tailbone and his front two lower incisor teeth were rotated and overlapping. The victim was found with many of his bones inside a green plastic bag.\u003C/p\u003E",
-      "status": "na",
-      "legat_names": null,
-      "eyes": null,
-      "person_classification": "Main",
-      "description": "Needville, Texas\r\nDecember 17, 2000",
-      "images": [
-        {
-          "large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/@@images/image/large",
-          "caption": "2005 Composite",
-          "thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/@@images/image/thumb",
-          "original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas/@@images/image"
-        }
-      ],
-      "possible_countries": null,
-      "weight_min": null,
-      "additional_information": null,
-      "remarks": null,
-      "path": "/wanted/vicap/unidentified-persons/john-doe---needville-texas",
-      "eyes_raw": null,
-      "weight_max": null,
-      "reward_min": 0,
-      "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/john-doe---needville-texas",
-      "possible_states": null,
-      "modified": "2024-10-23T00:06:33+00:00",
-      "reward_max": 0,
-      "race": "hispanic",
-      "height_max": 66,
-      "place_of_birth": null,
-      "height_min": 61,
-      "poster_classification": "default",
-      "warning_message": null,
-      "pathId": "https://api.fbi.gov/@wanted-person/0de65261a2d74b298f3021202edfa532"
-    }
+		{
+		"title": "IDA DEAN (RICHARDSON) ANDERSON - ANN ARBOR, MICHIGAN",
+		"race": "white",
+		"age": "21",
+		"sex": "Female",
+		"hair": "brown",
+		"nationality": "None",
+		},
+
+		{
+		"title": "JESUS DE LA CRUZ - LYNN, MASSACHUSETTS",
+		"race": "hispanic",
+		"age": "6",
+		"sex": "Male",
+		"hair": "brown",
+		"nationality": "None",
+		},
+
+		{
+		"title": "ATRAYA BERARDI - ROCKLEDGE, FLORIDA",
+		"race": "white",
+		"age": "16",
+		"sex": "Female",
+		"hair": "brown",
+		"nationality": "None",
+		},
+
+		{
+		"title": "BRYAN MATTHEW MCGEHRIN - TANEYTOWN, MARYLAND",
+		"race": "white",
+		"age": "36",
+		"sex": "Male",
+		"hair": "brown",
+		"nationality": "None",
+		},
+
+		{
+		"title": "MITCHELL TODD HEIN - INDIO, CALIFORNIA",
+		"race": "white",
+		"age": "22",
+		"sex": "Male",
+		"hair": "brown",
+		"nationality": "None",
+		},
+
+		{
+		"title": "RANDY STEWART DORAN - NEW ORLEANS, LOUISIANA",
+		"race": "white",
+		"age": "22",
+		"sex": "Male",
+		"hair": "brown",
+		"nationality": "None",
+		},
+
+		{
+		"title": "ALEXANDER STUART JAMES - BRIDGE CITY, TEXAS",
+		"race": "white",
+		"age": "36",
+		"sex": "Male",
+		"hair": "brown",
+		"nationality": "None",
+		}
+	}
   ]
 }
