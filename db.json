@@ -5,8 +5,7 @@
 		"race": "white",
 		"age": "21",
 		"sex": "Female",
-		"hair": "brown",
-		"nationality": "None"
+		"hair": "brown"
 		},
 
 		{
@@ -14,8 +13,7 @@
 		"race": "hispanic",
 		"age": "6",
 		"sex": "Male",
-		"hair": "brown",
-		"nationality": "None"
+		"hair": "brown"
 		},
 
 		{
@@ -23,8 +21,7 @@
 		"race": "white",
 		"age": "16",
 		"sex": "Female",
-		"hair": "brown",
-		"nationality": "None"
+		"hair": "brown"
 		},
 
 		{
@@ -32,8 +29,7 @@
 		"race": "white",
 		"age": "36",
 		"sex": "Male",
-		"hair": "brown",
-		"nationality": "None"
+		"hair": "brown"
 		},
 
 		{
@@ -41,8 +37,7 @@
 		"race": "white",
 		"age": "22",
 		"sex": "Male",
-		"hair": "brown",
-		"nationality": "None"
+		"hair": "brown"
 		},
 
 		{
@@ -50,8 +45,7 @@
 		"race": "white",
 		"age": "22",
 		"sex": "Male",
-		"hair": "brown",
-		"nationality": "None"
+		"hair": "brown"
 		},
 
 		{
@@ -59,16 +53,14 @@
 		"race": "white",
 		"age": "36",
 		"sex": "Male",
-		"hair": "brown",
-		"nationality": "None"
+		"hair": "brown"
 		},
 		{
 		"title": "JOHN DOE - GRANT COUNTY, KENTUCKY",
 		"race": "white",
 		"age": "25",
 		"sex": "Male",
-		"hair": "brown",
-		"nationality": "None"
+		"hair": "brown"
 		},
 
 		{
@@ -76,8 +68,7 @@
 		"race": "hispanic",
 		"age": "39",
 		"sex": "Female",
-		"hair": "brown",
-		"nationality": "None",
+		"hair": "brown"
 		},
 
 		{
@@ -85,8 +76,7 @@
 		"race": "white",
 		"age": "28",
 		"sex": "Male",
-		"hair": "black",
-		"nationality": "None"
+		"hair": "black"
 		}
   ]
 }
