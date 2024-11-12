@@ -7,7 +7,7 @@
 		"age": "21",
 		"sex": "Female",
 		"hair": "brown",
-		"nationality": "None",
+		"nationality": "None"
 		},
 
 		{
@@ -16,7 +16,7 @@
 		"age": "6",
 		"sex": "Male",
 		"hair": "brown",
-		"nationality": "None",
+		"nationality": "None"
 		},
 
 		{
@@ -25,7 +25,7 @@
 		"age": "16",
 		"sex": "Female",
 		"hair": "brown",
-		"nationality": "None",
+		"nationality": "None"
 		},
 
 		{
@@ -34,7 +34,7 @@
 		"age": "36",
 		"sex": "Male",
 		"hair": "brown",
-		"nationality": "None",
+		"nationality": "None"
 		},
 
 		{
@@ -43,7 +43,7 @@
 		"age": "22",
 		"sex": "Male",
 		"hair": "brown",
-		"nationality": "None",
+		"nationality": "None"
 		},
 
 		{
@@ -52,7 +52,7 @@
 		"age": "22",
 		"sex": "Male",
 		"hair": "brown",
-		"nationality": "None",
+		"nationality": "None"
 		},
 
 		{
@@ -61,7 +61,7 @@
 		"age": "36",
 		"sex": "Male",
 		"hair": "brown",
-		"nationality": "None",
+		"nationality": "None"
 		}
 	}
   ]
