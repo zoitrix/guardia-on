@@ -3,301 +3,301 @@
 		{
 		"name": "unknown subject 1",
 		"hair": "brown",
-		"eyes": "brown",
-		"sex": "brown",
-		"weight": "60",
-		"race": "hispanic",
-		"height": "54"
+		"eyes": "green",
+		"sex": "Female",
+		"weight": "110",
+		"race": "white",
+		"height": "62"
 		},
 
 		{
 		"name": "unknown subject 2",
 		"hair": "brown",
 		"eyes": "brown",
-		"sex": "brown",
+		"sex": "Male",
+		"weight": "60",
+		"race": "hispanic",
+		"height": "54"
+		},
+
+		{
+		"name": "unknown subject 3",
+		"hair": "brown",
+		"eyes": "brown",
+		"sex": "Female",
 		"weight": "110",
 		"race": "white",
 		"height": "64"
 		},
 
 		{
-		"name": "unknown subject 3",
+		"name": "unknown subject 4",
 		"hair": "brown",
 		"eyes": "blue",
-		"sex": "brown",
+		"sex": "Male",
 		"weight": "190",
 		"race": "white",
 		"height": "68"
 		},
 
 		{
-		"name": "unknown subject 4",
+		"name": "unknown subject 5",
 		"hair": "brown",
 		"eyes": "blue",
-		"sex": "brown",
+		"sex": "Male",
 		"weight": "160",
 		"race": "white",
 		"height": "71"
-		},
-
-		{
-		"name": "unknown subject 5",
-		"hair": "black",
-		"eyes": "brown",
-		"sex": "black",
-		"weight": "115",
-		"race": "native",
-		"height": "66"
 		},
 
 		{
 		"name": "unknown subject 6",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
+		"sex": "Female",
+		"weight": "115",
+		"race": "native",
+		"height": "66"
+		},
+
+		{
+		"name": "unknown subject 7",
+		"hair": "black",
+		"eyes": "brown",
+		"sex": "Male",
 		"weight": "144",
 		"race": "native",
 		"height": "64"
 		},
 
 		{
-		"name": "unknown subject 7",
+		"name": "unknown subject 8",
 		"hair": "brown",
 		"eyes": "blue",
-		"sex": "brown",
+		"sex": "Male",
 		"weight": "160",
 		"race": "white",
 		"height": "72"
 		},
 
 		{
-		"name": "unknown subject 8",
+		"name": "unknown subject 9",
 		"hair": "brown",
 		"eyes": "green",
-		"sex": "brown",
+		"sex": "Male",
 		"weight": "190",
 		"race": "hispanic",
 		"height": "72"
 		},
 
 		{
-		"name": "unknown subject 9",
+		"name": "unknown subject 10",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
+		"sex": "Male",
 		"weight": "140",
 		"race": "asian",
 		"height": "67"
 		},
 
 		{
-		"name": "unknown subject 10",
+		"name": "unknown subject 11",
 		"hair": "brown",
 		"eyes": "brown",
-		"sex": "brown",
+		"sex": "Female",
 		"weight": "210",
 		"race": "native",
 		"height": "69"
 		},
 
 		{
-		"name": "unknown subject 11",
+		"name": "unknown subject 12",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
+		"sex": "Male",
 		"weight": "180",
 		"race": "hispanic",
 		"height": "71"
 		},
 
 		{
-		"name": "unknown subject 12",
+		"name": "unknown subject 13",
 		"hair": "brown",
 		"eyes": "brown",
-		"sex": "brown",
+		"sex": "Male",
 		"weight": "160",
 		"race": "white",
 		"height": "69"
 		},
 
 		{
-		"name": "unknown subject 13",
+		"name": "unknown subject 14",
 		"hair": "brown",
 		"eyes": "brown",
-		"sex": "brown",
+		"sex": "Male",
 		"weight": "250",
 		"race": "hispanic",
 		"height": "68"
 		},
 
 		{
-		"name": "unknown subject 14",
+		"name": "unknown subject 15",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
+		"sex": "Female",
 		"weight": "143",
 		"race": "hispanic",
 		"height": "61"
 		},
 
 		{
-		"name": "unknown subject 15",
+		"name": "unknown subject 16",
 		"hair": "brown",
 		"eyes": "brown",
-		"sex": "brown",
+		"sex": "Male",
 		"weight": "220",
 		"race": "white",
 		"height": "66"
-		},
-
-		{
-		"name": "unknown subject 16",
-		"hair": "black",
-		"eyes": "brown",
-		"sex": "black",
-		"weight": "157",
-		"race": "asian",
-		"height": "68"
 		},
 
 		{
 		"name": "unknown subject 17",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
-		"weight": "199",
-		"race": "hispanic",
-		"height": "67"
+		"sex": "Male",
+		"weight": "157",
+		"race": "asian",
+		"height": "68"
 		},
 
 		{
 		"name": "unknown subject 18",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
-		"weight": "185",
+		"sex": "Male",
+		"weight": "199",
 		"race": "hispanic",
-		"height": "70"
+		"height": "67"
 		},
 
 		{
 		"name": "unknown subject 19",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
-		"weight": "160",
+		"sex": "Male",
+		"weight": "185",
 		"race": "hispanic",
-		"height": "66"
+		"height": "70"
 		},
 
 		{
 		"name": "unknown subject 20",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
-		"weight": "225",
+		"sex": "Male",
+		"weight": "160",
 		"race": "hispanic",
-		"height": "74"
+		"height": "66"
 		},
 
 		{
 		"name": "unknown subject 21",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
-		"weight": "150",
-		"race": "white",
-		"height": "70"
+		"sex": "Male",
+		"weight": "225",
+		"race": "hispanic",
+		"height": "74"
 		},
 
 		{
 		"name": "unknown subject 22",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
-		"weight": "130",
-		"race": "native",
-		"height": "65"
+		"sex": "Male",
+		"weight": "150",
+		"race": "white",
+		"height": "70"
 		},
 
 		{
 		"name": "unknown subject 23",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
-		"weight": "235",
-		"race": "black",
-		"height": "73"
+		"sex": "Male",
+		"weight": "130",
+		"race": "native",
+		"height": "65"
 		},
 
 		{
 		"name": "unknown subject 24",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
-		"weight": "115",
+		"sex": "Male",
+		"weight": "235",
 		"race": "black",
-		"height": "67"
+		"height": "73"
 		},
 
 		{
 		"name": "unknown subject 25",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
+		"sex": "Female",
+		"weight": "115",
+		"race": "black",
+		"height": "67"
+		},
+
+		{
+		"name": "unknown subject 26",
+		"hair": "black",
+		"eyes": "brown",
+		"sex": "Male",
 		"weight": "180",
 		"race": "white",
 		"height": "74"
 		},
 
 		{
-		"name": "unknown subject 26",
+		"name": "unknown subject 27",
 		"hair": "brown",
 		"eyes": "blue",
-		"sex": "brown",
+		"sex": "Male",
 		"weight": "220",
 		"race": "white",
 		"height": "68"
 		},
 
 		{
-		"name": "unknown subject 27",
+		"name": "unknown subject 28",
 		"hair": "brown",
 		"eyes": "green",
-		"sex": "brown",
+		"sex": "Female",
 		"weight": "85",
 		"race": "white",
 		"height": "58"
 		},
 
 		{
-		"name": "unknown subject 28",
+		"name": "unknown subject 29",
 		"hair": "brown",
 		"eyes": "brown",
-		"sex": "brown",
+		"sex": "Male",
 		"weight": "200",
 		"race": "white",
 		"height": "67"
 		},
 
 		{
-		"name": "unknown subject 29",
+		"name": "unknown subject 30",
 		"hair": "black",
 		"eyes": "brown",
-		"sex": "black",
+		"sex": "Female",
 		"weight": "148",
 		"race": "black",
 		"height": "65"
-		},
-
-		{
-		"name": "unknown subject 30",
-		"hair": "brown",
-		"eyes": "blue",
-		"sex": "brown",
-		"weight": "170",
-		"race": "white",
-		"height": "73"
 		}
     ]
 }
