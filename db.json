@@ -2,11 +2,8 @@
   "hello":{
 		"message": "Hello, World!",
 		"mystats": [
-			{
-			"visits": "253",
-			"state": "up",
-			"location": "madrid"
-			}
+			{"cpu": 8, "ram": "16GB", "disk": "100GB"},
+			{"state": "up", "alarms": 3, "warnings": 10}
 		]
   },
   "missing":[
