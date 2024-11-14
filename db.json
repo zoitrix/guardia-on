@@ -2,9 +2,11 @@
   "hello":{
 		"message": "Hello, World!",
 		"mystats": [
+			{
 			"visits": "253",
 			"state": "up",
 			"location": "madrid"
+			}
 		]
   },
   "missing":[
