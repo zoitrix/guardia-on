@@ -2,8 +2,12 @@
   "hello":{
 		"message": "Hello, World!",
 		"mystats": [
-			{"cpu": 8, "ram": "16GB", "disk": "100GB"},
-			{"state": "up", "alarms": 3, "warnings": 10}
+			{"id": 1, "cpu": 8},
+			{"id": 2, "ram": "16GB"},
+			{"id": 3, "disk": "100GB"},
+			{"id": 4, "state": "up"},
+			{"id": 5, "alarms": 3},
+			{"id": 6, "warnings": 10}
 		]
   },
   "missing":[
