@@ -2,12 +2,12 @@
   "hello":{
 		"message": "Hello, World!",
 		"mystats": [
-			{"id": 1, "cpu": 8},
-			{"id": 2, "ram": "16GB"},
-			{"id": 3, "disk": "100GB"},
-			{"id": 4, "state": "up"},
-			{"id": 5, "alarms": 3},
-			{"id": 6, "warnings": 10}
+			{"key": "cpu", "value": 8},
+			{"key": "ram", "value": "16GB"},
+			{"key": "disk", "value": "100GB"},
+			{"key": "state", "value": "up"},
+			{"key": "alarms", "value": 3},
+			{"key": "warnings", "value": 10}
 		]
   },
   "missing":[
